@@ -71,10 +71,9 @@
 - SOLID principles and clean architecture
 
 ## GitHub Activity
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nice2ceeu&show_icons=true&theme=transparent&hide_border=true" alt="Kristoffer's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nice2ceeu&layout=compact&theme=transparent&hide_border=true" alt="Kristoffer's most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nice2ceeu&theme=github_dark" alt="Kristoffer's GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nice2ceeu&theme=github_dark" alt="Kristoffer's most used languages" />
 </p>
 
 ## Let's Connect
