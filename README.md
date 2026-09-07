@@ -83,9 +83,6 @@ I am open to junior software engineering and backend development opportunities, 
   <a href="https://www.linkedin.com/in/kristoffer-lazarte-7a416b283">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/nice2ceeu">
-    <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 ---
