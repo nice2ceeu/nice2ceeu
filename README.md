@@ -70,13 +70,7 @@
 - Dockerized deployment and cloud hosting
 - SOLID principles and clean architecture
 
-## GitHub Activity
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nice2ceeu&theme=github-compact&hide_border=true"
-    alt="Kristoffer's GitHub contribution graph"
-  />
-</p>
+
 
 ## Let's Connect
 
