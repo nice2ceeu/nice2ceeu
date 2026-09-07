@@ -72,8 +72,10 @@
 
 ## GitHub Activity
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nice2ceeu&theme=github_dark" alt="Kristoffer's GitHub statistics" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nice2ceeu&theme=github_dark" alt="Kristoffer's most used languages" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nice2ceeu&theme=github-compact&hide_border=true"
+    alt="Kristoffer's GitHub contribution graph"
+  />
 </p>
 
 ## Let's Connect
