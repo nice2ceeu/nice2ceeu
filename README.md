@@ -106,20 +106,15 @@ public class Kristoffer extends SoftwareEngineer {
 
 ---
 
-## `$ ./stats.sh`
+## `$ ./run-backend.sh`
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nice2ceeu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nice2ceeu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nice2ceeu&theme=react-dark&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
-</p>
-
-<!-- ═══════════════ CUSTOM ANIMATED TERMINAL (file lives in assets/terminal.svg) ═══════════════ -->
+<!-- Both animations are self-hosted SVGs in assets/ so they can never break like third-party stat cards -->
 <p align="center">
   <img src="./assets/terminal.svg" alt="Animated terminal: a Spring Boot backend starting up" width="760" />
+</p>
+
+<p align="center">
+  <img src="./assets/pipeline.svg" alt="Animated diagram: an API request passing through rate limiting, auth, cache, service and database" width="760" />
 </p>
 
 ---
