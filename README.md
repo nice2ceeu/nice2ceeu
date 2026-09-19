@@ -1,53 +1,83 @@
-<h1 align="center">Hi, I'm Kristoffer Lazarte 👋</h1>
-
-<h3 align="center">Junior Software Engineer from the Philippines</h3>
-
+<!-- ═══════════════ HEADER (animated waving banner) ═══════════════ -->
 <p align="center">
-  I build scalable, cloud-based web applications with clean architecture,<br />
-  secure APIs, and thoughtful user experiences.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d1e,100:39d353&height=220&section=header&text=Kristoffer%20Lazarte&fontSize=46&fontColor=39d353&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=%3E%20building%20dependable%20software_&descSize=18&descColor=c9d1d9&descAlignY=58" alt="Kristoffer Lazarte banner" />
+</p>
+
+<!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
+<p align="center">
+  <a href="https://eltoffer.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=39D353&background=0D111700&center=true&vCenter=true&repeat=true&width=720&height=50&lines=%24+whoami+%E2%86%92+Junior+Software+Engineer;%24+cat+stack.txt+%E2%86%92+Java+%7C+Spring+Boot+%7C+React;%24+docker+compose+up+--build+%F0%9F%90%B3;%24+curl+-X+POST+%2Fapi%2Fv1%2Fsecure+%F0%9F%94%90;%24+git+commit+-m+%22ship+it%22+%F0%9F%9A%80" alt="Typing animation" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://eltoffer.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/kristoffer-lazarte-7a416b283">LinkedIn</a> •
-  <a href="https://github.com/nice2ceeu">GitHub</a>
+  <a href="https://eltoffer.vercel.app/"><img src="https://img.shields.io/badge/~%2Fportfolio-eltoffer.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=39d353&labelColor=0d1117&color=39d353" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/kristoffer-lazarte-7a416b283"><img src="https://img.shields.io/badge/~%2Flinkedin-connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353&labelColor=0d1117&color=39d353" alt="LinkedIn" /></a>
+  <a href="https://github.com/nice2ceeu"><img src="https://img.shields.io/badge/~%2Fgithub-nice2ceeu-0d1117?style=for-the-badge&logo=github&logoColor=39d353&labelColor=0d1117&color=39d353" alt="GitHub" /></a>
 </p>
 
-## About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nice2ceeu&label=Profile%20views&color=39d353&style=flat-square&labelColor=0d1117" alt="Profile views" />
+</p>
 
-- 🔭 I build full-stack products using **Java, Spring Boot, React, Next.js, Node.js, and PHP**.
-- ⚙️ I enjoy backend development, REST APIs, authentication, database design, caching, and rate limiting.
-- ☁️ I deploy applications using **Docker, Aiven, Firebase, Azure, Render, and Vercel**.
-- 🌱 I am continuously improving my skills in scalable backend architecture and cloud deployment.
-- 💼 Explore my work at **[eltoffer.vercel.app](https://eltoffer.vercel.app/)**.
+---
 
-## Tech Stack
+## `$ whoami`
 
-### Languages and Frameworks
+```java
+public class Kristoffer extends SoftwareEngineer {
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+    private final String role     = "Junior Software Engineer";
+    private final String location = "Philippines 🇵🇭";
+    private final String mission  = "Turning real-world needs into dependable software";
 
-### Databases, Cloud, and Tools
+    private final List<String> languages = List.of(
+        "Java", "TypeScript", "JavaScript", "PHP"
+    );
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+    private final List<String> frameworks = List.of(
+        "Spring Boot", "React", "Next.js", "Angular", "Node.js"
+    );
 
-## Featured Projects
+    private final List<String> deployedOn = List.of(
+        "Docker", "Aiven", "Firebase", "Azure", "Render", "Vercel"
+    );
+
+    public void dailyRoutine() {
+        while (alive()) {
+            designRestApis();
+            secureEverything();      // auth, authz, rate limiting
+            cacheWhatMatters();
+            shipWithDocker();
+            keepLearning();          // scalable backend + cloud deployment
+        }
+    }
+
+    public boolean openToWork() {
+        return true;                 // junior SWE / backend roles & collabs
+    }
+}
+```
+
+---
+
+## `$ cat tech-stack.txt`
+
+**Languages & Frameworks**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,react,nextjs,angular,php,tailwind&theme=dark&perline=10" alt="Languages and frameworks" />
+</p>
+
+**Databases, Cloud & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,azure,vercel,git&theme=dark&perline=8" alt="Databases, cloud and tools" />
+</p>
+
+---
+
+## `$ ls ~/projects`
 
 | Project | What It Does | Tech |
 | --- | --- | --- |
@@ -55,36 +85,68 @@
 | **[LiteBox](https://liteboxph.vercel.app)** | Image-storage SaaS with generated API credentials, Cloudinary uploads, subscriptions, OAuth sign-in, and idempotent PayMongo payments. | Spring Boot, React, Aiven |
 | **[Agribilis](https://agribilis.vercel.app)** | Agricultural marketplace with online purchasing, PayMongo payments, Docker deployment, and administrative journal entries. | PHP, React, Docker, MySQL |
 | **[Kawit Tourism Portal](https://kawit-tawny.vercel.app)** | Tourism platform with attraction discovery, reservations, Azure Maps navigation, an AI-assisted chatbot, and admin analytics. | Next.js, Firebase, Azure |
-| **[Cointainer](https://cointainer.vercel.app)** *(In progress)* | Digital wallet with PostgreSQL-backed transaction workflows and idempotent PayMongo payment processing. | Spring Boot, Angular, PostgreSQL |
+| **[Cointainer](https://cointainer.vercel.app)** *(🚧 In progress)* | Digital wallet with PostgreSQL-backed transaction workflows and idempotent PayMongo payment processing. | Spring Boot, Angular, PostgreSQL |
 | **[Debt Tracker](https://tutoytracker.vercel.app)** | Organizes debts and upcoming due dates with real-time data, authentication, Cloud Functions, and push notifications. | Next.js, Firebase |
 | **[Cheap Chat](https://cheapchatph.vercel.app)** | Real-time messaging with WebSockets, MongoDB persistence, account recovery, and transactional email. | Node.js, MongoDB, Angular |
 | **[SkySnap](https://skysnapph.vercel.app)** | Responsive weather application built to practice public API integration and asynchronous data handling. | Next.js |
 
-## What I Focus On
+---
 
-- REST API design and integration
-- Secure authentication and authorization
-- Relational and NoSQL database design
-- Caching, rate limiting, and pagination
-- Payment integrations and idempotency
-- Dockerized deployment and cloud hosting
-- SOLID principles and clean architecture
+## `$ git log --focus`
 
+```diff
++ REST API design and integration
++ Secure authentication and authorization
++ Relational and NoSQL database design
++ Caching, rate limiting, and pagination
++ Payment integrations and idempotency
++ Dockerized deployment and cloud hosting
++ SOLID principles and clean architecture
+```
 
+---
 
-## Let's Connect
-
-I am open to junior software engineering and backend development opportunities, as well as collaborations on practical web applications.
+## `$ ./stats.sh`
 
 <p align="center">
-  <a href="https://eltoffer.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/kristoffer-lazarte-7a416b283">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nice2ceeu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nice2ceeu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nice2ceeu&theme=react-dark&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
+</p>
+
+<!-- ═══════════════ CUSTOM ANIMATED TERMINAL (file lives in assets/terminal.svg) ═══════════════ -->
+<p align="center">
+  <img src="./assets/terminal.svg" alt="Animated terminal: a Spring Boot backend starting up" width="760" />
 </p>
 
 ---
 
-<p align="center"><em>Turning real-world needs into dependable software.</em></p>
+## `$ ./connect.sh`
+
+```bash
+$ echo "Open to junior software engineering & backend development opportunities"
+$ echo "Also up for collaborations on practical web applications"
+$ ping kristoffer --connect
+  64 bytes from portfolio: icmp_seq=1 ttl=64 time=0.1 ms  ✔
+```
+
+<p align="center">
+  <a href="https://eltoffer.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-0d1117?style=for-the-badge&logo=vercel&logoColor=39d353&color=39d353" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/kristoffer-lazarte-7a416b283">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353&color=39d353" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=8B949E&background=0D111700&center=true&vCenter=true&repeat=true&width=520&height=30&lines=%2F%2F+Turning+real-world+needs+into+dependable+software.;%2F%2F+while+%28true%29+%7B+learn%28%29%3B+build%28%29%3B+ship%28%29%3B+%7D" alt="Footer quote" />
+</p>
+
+<!-- ═══════════════ FOOTER (animated waving banner) ═══════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:0f3d1e,100:0d1117&height=120&section=footer" alt="Footer wave" />
+</p>
