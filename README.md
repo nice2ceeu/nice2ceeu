@@ -85,7 +85,7 @@ public class Kristoffer extends SoftwareEngineer {
 
 <p>
   <img src="https://img.shields.io/badge/Claude_Code-0d1117?style=for-the-badge&logo=claude&logoColor=39d353&labelColor=0d1117&color=39d353" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Codex-0d1117?style=for-the-badge&logo=openai&logoColor=39d353&labelColor=0d1117&color=39d353" alt="Codex" />
+  <img src="https://img.shields.io/badge/ChatGPT_Codex-0d1117?style=for-the-badge&logo=openai&logoColor=39d353&labelColor=0d1117&color=39d353" alt="ChatGPT Codex" />
   <img src="https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=39d353&labelColor=0d1117&color=39d353" alt="Gemini" />
 </p>
 
