@@ -85,7 +85,7 @@ public class Kristoffer extends SoftwareEngineer {
 
 <p>
   <img src="https://img.shields.io/badge/Claude_Code-0d1117?style=for-the-badge&logo=claude&logoColor=39d353&labelColor=0d1117&color=39d353" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/ChatGPT_Codex-0d1117?style=for-the-badge&logo=openai&logoColor=39d353&labelColor=0d1117&color=39d353" alt="ChatGPT Codex" />
+  <img src="https://img.shields.io/badge/ChatGPT_Codex-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMzlkMzUzIiBzdHJva2Utd2lkdGg9IjIuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cG9seWxpbmUgcG9pbnRzPSI0LDYgMTEsMTIgNCwxOCIvPjxsaW5lIHgxPSIxMyIgeTE9IjE5IiB4Mj0iMjAiIHkyPSIxOSIvPjwvc3ZnPgo%3D&labelColor=0d1117&color=39d353" alt="ChatGPT Codex" />
   <img src="https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=39d353&labelColor=0d1117&color=39d353" alt="Gemini" />
 </p>
 
