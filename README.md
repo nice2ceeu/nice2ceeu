@@ -6,7 +6,7 @@
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 <p align="center">
   <a href="https://eltoffer.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=39D353&background=0D111700&center=true&vCenter=true&repeat=true&width=720&height=50&lines=%24+whoami+%E2%86%92+Junior+Software+Engineer;%24+cat+stack.txt+%E2%86%92+Java+%7C+Spring+Boot+%7C+React;%24+docker+compose+up+--build+%F0%9F%90%B3;%24+curl+-X+POST+%2Fapi%2Fv1%2Fsecure+%F0%9F%94%90;%24+git+commit+-m+%22ship+it%22+%F0%9F%9A%80" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=39D353&background=0D111700&center=true&vCenter=true&repeat=true&width=720&height=50&lines=%24+whoami+%E2%86%92+Junior+Software+Engineer;%24+cat+stack.txt+%E2%86%92+Java+%7C+Spring+Boot+%7C+React;%24+docker+compose+up+--build+%F0%9F%90%B3;%24+curl+-X+POST+%2Fapi%2Fv1%2Fsecure+%F0%9F%94%90;%24+claude+%22review+this+PR%22+%F0%9F%A4%96;%24+git+commit+-m+%22ship+it%22+%F0%9F%9A%80" alt="Typing animation" />
   </a>
 </p>
 
@@ -43,6 +43,10 @@ public class Kristoffer extends SoftwareEngineer {
         "Docker", "Aiven", "Firebase", "Azure", "Render", "Vercel"
     );
 
+    private final List<String> aiTools = List.of(
+        "Claude Code", "Codex", "Gemini"
+    );
+
     public void dailyRoutine() {
         while (alive()) {
             designRestApis();
@@ -73,6 +77,16 @@ public class Kristoffer extends SoftwareEngineer {
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,azure,vercel,git&theme=dark&perline=8" alt="Databases, cloud and tools" />
+</p>
+
+---
+
+## `$ cat ai-tools.txt`
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-0d1117?style=for-the-badge&logo=claude&logoColor=39d353&labelColor=0d1117&color=39d353" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-0d1117?style=for-the-badge&logo=openai&logoColor=39d353&labelColor=0d1117&color=39d353" alt="Codex" />
+  <img src="https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=39d353&labelColor=0d1117&color=39d353" alt="Gemini" />
 </p>
 
 ---
